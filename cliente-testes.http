@@ -19,7 +19,10 @@ Accept: application/json
     ]
 }
 
+# ideia,local=sala,personagem=Brenda,acao=assistindo latitude=-15,longitude=-20,altitude=80
+
 ###
+
 
 # Requisição inválida: cabeçalho não menciona formato
 POST http://localhost:5000/gravar
